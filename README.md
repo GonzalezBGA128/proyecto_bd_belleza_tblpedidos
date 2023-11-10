@@ -6,3 +6,4 @@ base de datos bd_belleza tabla pedidos
 ! [ ](https://github.com/GonzalezBGA128/proyecto_bd_belleza_tblpedidos/blob/adf47836b5c5635683fe8562d7db71a2d744ee2f/imagen%204.png)
 ! [ ](https://github.com/GonzalezBGA128/proyecto_bd_belleza_tblpedidos/blob/b95b2162c8599d417bbc11a8c937418d7981c4e3/imagen%205.png)
 ! [ ](https://github.com/GonzalezBGA128/proyecto_bd_belleza_tblpedidos/blob/10235d537e8b2718af7e4fbc7d753727fac0b093/imagen%206.png)
+! [ ](https://github.com/GonzalezBGA128/proyecto_bd_belleza_tblpedidos/blob/8a2e096c249c3aef515eea18d11553563fe322d5/imagen%207.png)
